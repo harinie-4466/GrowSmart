@@ -1,4 +1,4 @@
-# growSmart App - README
+# growSmart App
 
 ## Overview
 
